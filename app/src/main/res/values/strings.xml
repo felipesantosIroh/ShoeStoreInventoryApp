@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="add_shoe_to_inventory">Add Shoe to Inventory</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company">Company</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="company_label">Company:</string>
+    <string name="size_label">Size:</string>
+    <string name="head_title_instruction">Dear customer</string>
+    <string name="text_instruction">Thank you for using our app, here you can find the best for your feet, with style and comfort.\n Help us by sharing our work on your social media.</string>
+    <string name="see_the_shoe_list">See the shoe list</string>
+    <string name="welcome_text">Welcome!\nto\nShoe Store Inventory</string>
+    <string name="text_slogan">Walking with style and glamour</string>
+    <string name="button_welcome">Come in and enjoy!</string>
+    <string name="logout">Logout</string>
+    <string name="shoe_store">Shoe Store</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
